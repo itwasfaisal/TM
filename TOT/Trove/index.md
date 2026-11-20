@@ -8,5 +8,5 @@ A collection of resources and other discoveries. More will be added soon.
 
 - [Coming Soon](ComingSoon/)
 
-<button type="button" onclick="if (document.referrer && new URL(document.referrer).origin === location.origin) { history.back(); } else { location.href = '../'; }">Back</button>
+<button type="button" onclick="window.history.back()">Back</button>
 <a href="../"><button type="button">Home</button></a>

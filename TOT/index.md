@@ -2,9 +2,9 @@
 title: Home
 ---
 
-# Website Title
+# Trove Of Mysteries
 
-A short introductory paragraph will go here.
+A short introductory paragraph will go here. Not now, later.
 
 <button type="button" onclick="location.href='Library/'">Library</button>
 <button type="button" onclick="location.href='About/'">About</button>
